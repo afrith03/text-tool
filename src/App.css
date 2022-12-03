@@ -40,3 +40,6 @@
 .blank{
   color: rgb(32, 8, 246);
 }
+.alert{
+  position: absolute;
+}
